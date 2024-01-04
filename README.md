@@ -1,4 +1,5 @@
 # Life of a Disease: A Markov Chain Model for Epidemics via Social Graphs
+### By  Batuhan Cengiz, Halil Faruk Karagöz, Muhammed Faruk Karabay
 ## Overview
 "Life of a Disease: A Markov Chain Model for Epidemics via Social Graphs" is a comprehensive project that explores the application of Markov chain models and graph theory in understanding the spread of diseases in populations. By representing individuals as nodes in a graph and their interactions as edges with probabilistic weights, this project offers insights into how different interaction rates and health states affect the lifecycle of an epidemic.
 
@@ -9,3 +10,5 @@ State Transition Matrix: Includes a detailed matrix depicting the potential tran
 Comprehensive Analysis: Features an in-depth analysis of disease progression under various scenarios, highlighting the influence of interaction probabilities and other key factors.
 ## Results
 This project provides an analytical perspective on the spread of diseases, underlining the significance of interaction probabilities and other critical parameters in influencing the dynamics of an epidemic. It offers valuable insights that could inform public health strategies and disease control measures.
+
+
